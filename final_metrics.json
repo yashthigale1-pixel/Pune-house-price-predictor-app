@@ -1,6 +1,0 @@
-{
-  "best_model": "XGBoost",
-  "test_rmse_lakhs": 23.822858436799855,
-  "test_mae_lakhs": 16.483593696435292,
-  "test_r2": 0.926342366983573
-}
